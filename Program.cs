@@ -18,7 +18,7 @@ namespace TechnicalAssessment
         public static void WordOccurence()
         {
 
-            string filepath = @"C:\Users\Collen\source\repos\TechnicalAssessment\TechnicalAssessment\data\2600-0.txt";
+            string filepath = @"C:\Users\Dane\source\repos\TechnicalAssessment\TechnicalAssessment\data\2600-0.txt";
 
             using (Parser parser = new Parser(filepath))
             {
